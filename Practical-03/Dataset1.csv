@@ -1,0 +1,15 @@
+Outlook,Temp,Humidity,Wind,Play
+R,H,Normal,F,N
+R,H,High,T,N
+O,H,Normal,F,Y
+S,M,Normal,F,Y
+S,C,Normal,F,Y
+S,C,Low,T,N
+O,C,Normal,T,Y
+R,M,Normal,F,N
+R,C,Low,F,Y
+S,M,High,F,Y
+R,M,High,T,Y
+O,M,Low,T,Y
+O,H,Normal,F,Y
+S,M,Normal,T,N

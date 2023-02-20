@@ -1,0 +1,15 @@
+Outlook,Temp,Wind,Humidity,Class
+R,H,F,Normal,N
+R,H,T,High,N
+O,H,F,Normal,Y
+S,M,F,Normal,N
+S,M,F,Normal,Y
+S,M,T,Low,Y
+O,C,T,Normal,Y
+R,C,F,Normal,Y
+R,C,F,Low,Y
+S,M,F,High,Y
+R,M,T,High,Y
+O,M,T,Low,Y
+O,H,F,Normal,Y
+S,M,T,Normal,N
